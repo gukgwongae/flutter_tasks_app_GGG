@@ -2,17 +2,17 @@
 ---
 
 ## 파일 설명
-1. main.dart 
+1. main.dart : 
 전체적인 테마를 적용시킴
 HomePage() 안에 String값을 넣게되면 이름을 설정할 수 있음
-2. home_page.dart 
+2. home_page.dart : 
 TodoEntity를 받아와 상태가 변하게됨
 첫화면을 구성한 페이지임
 Todo버튼 구현함
-3. widget.dart 
+3. widget.dart : 
 전체적인 위젯을 모아둔 페이지
 크게 NoTodo, YesTodo, TodoView, AddButton, BottomSheet(custom) 구성함
-4. todo_detail_page.dart
+4. todo_detail_page.dart : 
 Todo 세부페이지임
 
 ## 느낀점
